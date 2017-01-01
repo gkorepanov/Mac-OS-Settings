@@ -16,3 +16,6 @@ set listchars=tab:··
 set list
 set number
 set encoding=utf8
+set clipboard=unnamedplus
+let &colorcolumn="70,80"
+highlight ColorColumn ctermbg=Black

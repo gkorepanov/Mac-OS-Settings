@@ -155,7 +155,7 @@
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
 	<key>Bell</key>
-	<true/>
+	<false/>
 	<key>CursorBlink</key>
 	<false/>
 	<key>CursorColor</key>
@@ -233,6 +233,8 @@
 	<true/>
 	<key>UseBrightBold</key>
 	<true/>
+	<key>VisualBellOnlyWhenMuted</key>
+	<false/>
 	<key>blackColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm

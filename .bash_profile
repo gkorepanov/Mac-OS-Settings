@@ -16,4 +16,4 @@ if [ -f $(brew --prefix)/etc/bash_completion ]; then
 fi
 
 alias l="ls -lah"
-alias intel="cd ~/Desktop/mipt-mips/"
+alias vim="v"

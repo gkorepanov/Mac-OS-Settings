@@ -16,4 +16,4 @@ if [ -f $(brew --prefix)/etc/bash_completion ]; then
 fi
 
 alias l="ls -lah"
-alias vim="v"
+alias v="vim"

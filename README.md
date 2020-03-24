@@ -6,3 +6,4 @@ My simple Vim config for quick setup anywhere
 3) Add `smart.terminal` to terminal profiles and enable by default
 4) `cp smart.zsh-theme ~/.oh-my-zsh/themes/`
 5) In `~/.zshrc` change `ZSH_THEME="..."` to `ZSH_THEME="smart"`
+6) `cp -r .vim .vimrc ~/`

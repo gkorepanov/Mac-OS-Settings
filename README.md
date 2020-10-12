@@ -33,4 +33,4 @@ Import `smart.json` into iTerm2 settings.
 7) `cp -r .vim .vimrc ~/` to set up `vim`
 
 ## Setup TMUX
-TODO (https://github.com/gpakosz/.tmux)
+Just follow https://github.com/gpakosz/.tmux

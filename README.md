@@ -33,14 +33,18 @@ There are some *crucial* settings you will absolutely love in iTerm2:
 - Know about built-in [tmux integration](https://iterm2.com/documentation-tmux-integration.html) (just use `tmux -CC`)
 - Solarized Dark colors (Open Preferences > Profiles > Colors > Color Presets... > Solarized Dark)
 - iTerm2 > Install [Shell integration](https://iterm2.com/documentation-shell-integration.html). When shell integration is enabled, iTerm2 automatically adds a mark at each command prompt. You can navigate marks with Cmd-Shift-Up and Down-arrow keys.
-
-
 - tmux settings:
 <img width="622" alt="image" src="https://github.com/gkorepanov/Mac-OS-Settings/assets/14351916/f854c34d-bd89-4ae2-aeb5-9e8b8951d15a">
 
 
 ## vim config
 `curl https://raw.githubusercontent.com/gkorepanov/Mac-OS-Settings/master/.vimrc -o ~/.vimrc`
+
+
+# Work in progress
+
+## Useful link
+https://gitlab.com/gnachman/iterm2/-/wikis/tmux-Integration-Best-Practices
 
 ## Eternal Terminal
 `brew install MisterTea/et/et`
@@ -59,6 +63,6 @@ Now just use
 `xxh +s zsh +if <my_server>` instead `ssh <my_server>`
 
 
-# Other useful tools
+## Other useful tools
 - https://github.com/ajeetdsouza/zoxide
 - https://github.com/junegunn/fzf
